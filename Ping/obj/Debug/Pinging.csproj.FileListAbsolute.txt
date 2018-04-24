@@ -1,0 +1,6 @@
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\bin\Debug\Ping.exe.config
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\bin\Debug\Ping.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\bin\Debug\Ping.pdb
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\obj\Debug\Pinging.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\obj\Debug\Ping.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Ping\obj\Debug\Ping.pdb
