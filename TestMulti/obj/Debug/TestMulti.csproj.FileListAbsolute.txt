@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\bin\Debug\TestMulti.exe.config
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\bin\Debug\TestMulti.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\bin\Debug\TestMulti.pdb
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\obj\Debug\TestMulti.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\obj\Debug\TestMulti.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\obj\Debug\TestMulti.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\TestMulti\obj\Debug\TestMulti.pdb

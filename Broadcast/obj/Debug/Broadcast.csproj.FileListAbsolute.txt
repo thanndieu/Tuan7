@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\bin\Debug\Broadcast.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\bin\Debug\Broadcast.pdb
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\obj\Debug\Broadcast.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\obj\Debug\Broadcast.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast\obj\Debug\Broadcast.pdb

@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\bin\Debug\Broadcast Recv.exe.config
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\bin\Debug\Broadcast Recv.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\bin\Debug\Broadcast Recv.pdb
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\obj\Debug\Broadcast Recv.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\obj\Debug\Broadcast Recv.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\obj\Debug\Broadcast Recv.exe
+C:\Users\MSI\Desktop\LTAT\Broadcast\Broadcast Recv\obj\Debug\Broadcast Recv.pdb
